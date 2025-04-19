@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-18T10:55:10 IST" name="Default suite" finished-at="2025-04-18T10:56:18 IST" duration-ms="67584">
+    <groups>
+      <group name="regressionTest">
+        <method signature="CreateOrganization3in1.createOrgWithIndustryType()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" name="createOrgWithIndustryType" class="debugging.CreateOrganization3in1"/>
+        <method signature="CreateOrganization3in1.createOrgWithPhoneNum()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" name="createOrgWithPhoneNum" class="debugging.CreateOrganization3in1"/>
+      </group> <!-- regressionTest -->
+      <group name="smokeTest">
+        <method signature="CreateOrganization3in1.createOrganization()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" name="createOrganization" class="debugging.CreateOrganization3in1"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2025-04-18T10:55:10 IST" name="Default test" finished-at="2025-04-18T10:56:18 IST" duration-ms="67584">
+      <class name="debugging.CreateOrganization3in1">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" started-at="2025-04-18T10:55:10 IST" name="configBS" finished-at="2025-04-18T10:55:10 IST" duration-ms="810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" started-at="2025-04-18T10:55:10 IST" name="configBC" finished-at="2025-04-18T10:55:13 IST" duration-ms="2812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configMethod()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" started-at="2025-04-18T10:55:13 IST" name="configMethod" finished-at="2025-04-18T10:55:19 IST" duration-ms="5324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configMethod -->
+        <test-method signature="createOrgWithIndustryType()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" started-at="2025-04-18T10:55:19 IST" name="createOrgWithIndustryType" finished-at="2025-04-18T10:55:37 IST" duration-ms="18601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgWithIndustryType -->
+        <test-method is-config="true" signature="configAfterMethod()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" started-at="2025-04-18T10:55:37 IST" name="configAfterMethod" finished-at="2025-04-18T10:55:39 IST" duration-ms="1960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMethod -->
+        <test-method is-config="true" signature="configMethod()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" started-at="2025-04-18T10:55:39 IST" name="configMethod" finished-at="2025-04-18T10:55:43 IST" duration-ms="4282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configMethod -->
+        <test-method signature="createOrgWithPhoneNum()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" started-at="2025-04-18T10:55:43 IST" name="createOrgWithPhoneNum" finished-at="2025-04-18T10:55:54 IST" duration-ms="10698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgWithPhoneNum -->
+        <test-method is-config="true" signature="configAfterMethod()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" started-at="2025-04-18T10:55:54 IST" name="configAfterMethod" finished-at="2025-04-18T10:55:56 IST" duration-ms="1752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMethod -->
+        <test-method is-config="true" signature="configMethod()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" started-at="2025-04-18T10:55:56 IST" name="configMethod" finished-at="2025-04-18T10:56:00 IST" duration-ms="3933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configMethod -->
+        <test-method signature="createOrganization()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" started-at="2025-04-18T10:56:00 IST" name="createOrganization" finished-at="2025-04-18T10:56:16 IST" duration-ms="15696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganization -->
+        <test-method is-config="true" signature="configAfterMethod()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" started-at="2025-04-18T10:56:16 IST" name="configAfterMethod" finished-at="2025-04-18T10:56:18 IST" duration-ms="2073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMethod -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" started-at="2025-04-18T10:56:18 IST" name="configAC" finished-at="2025-04-18T10:56:18 IST" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAF()[pri:0, instance:debugging.CreateOrganization3in1@1573f9fc]" started-at="2025-04-18T10:56:18 IST" name="configAF" finished-at="2025-04-18T10:56:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAF -->
+      </class> <!-- debugging.CreateOrganization3in1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
